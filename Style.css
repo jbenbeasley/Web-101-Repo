@@ -1,7 +1,6 @@
 @CHARSET "UTF-8";
 
-
-div.clearfix {
+.clearfix {
 	clear: both;
 }
 
@@ -11,14 +10,14 @@ header {
 	outline: dotted 2px orange;
 }
 
-div.left_nav {
+.left_nav {
 	width: 20%;
 	outline: solid 1px blue;
 	height: 300px;
 	float: left;
 }
 
-div.content {
+.content {
 	width: 80%;
 	outline: dotted 1px blue;
 	height: 300px;
@@ -28,6 +27,6 @@ div.content {
 footer {
 	width: 100%;
 	height: 75px;
-	outline: dotted 1px green;
+	outline: dotted 2px green;
 	
 }
