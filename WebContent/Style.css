@@ -5,11 +5,13 @@ div.clearfix {
 	clear: both;
 }
 
+
 header {
 	width: 100%;
 	height: 75px;
 	outline: dotted 2px orange;
 }
+
 
 div.left_nav {
 	width: 20%;
@@ -18,12 +20,14 @@ div.left_nav {
 	float: left;
 }
 
+
 div.content {
 	width: 80%;
 	outline: dotted 1px blue;
 	height: 300px;
 	float: left;
 }
+
 
 footer {
 	width: 100%;
